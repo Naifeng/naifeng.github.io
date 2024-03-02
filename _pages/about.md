@@ -2,25 +2,29 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: self_2022.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Fall 2022, Philadelphia</p>
 
 news: true # includes a list of news items
-latest_posts: true # includes a list of the newest posts
+latest_posts: false # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
-social: true # includes social icons at the bottom of the page
+social: false # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third-year Ph.D. candidate in [Electrical and Computer Engineering](https://www.ece.cmu.edu/) at [Carnegie Mellon University](https://www.cmu.edu/), advised by Professor [Franz Franchetti](https://users.ece.cmu.edu/~franzf/). 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+I received a bachelor's degree in [Computer Science](https://www.cs.usc.edu/) with [honors](https://viterbiundergrad.usc.edu/ehp/) and a bachelor's degree in [Mathematics](https://dornsife.usc.edu/mathematics/) with [honors](https://catalogue.usc.edu/preview_entity.php?catoid=12&ent_oid=2528&hl=honors) from the [University of Southern California](https://www.usc.edu/), advised by Professor [Viktor K. Prasanna](https://sites.usc.edu/prasanna/). 
+
+
+My research interests lie in the areas of automatic high-performance code generation, automatic performance tuning, programming languages, compilers, and algorithms.
+
+My undergraduate research is featured [here](https://sites.usc.edu/dslab/projects/system-performance-prediction/). 
+
+Currently, I am contributing to [SPIRAL](http://www.spiral.net/) and [NTTX](http://www.spiral.net/software/nttx.html). 
