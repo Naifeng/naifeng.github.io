@@ -10,6 +10,8 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
+Please refer to my vitae for the most up-to-date list of publications.
+
 {% bibliography %}
 
 </div>

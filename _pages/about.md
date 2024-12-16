@@ -6,10 +6,10 @@ permalink: /
 
 profile:
   align: right
-  image: self_2022.jpg
+  image: self_2024.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Fall 2022, Philadelphia</p>
+    <p>Miami, Fall 2024</p>
 
 news: true # includes a list of news items
 latest_posts: false # includes a list of the newest posts
