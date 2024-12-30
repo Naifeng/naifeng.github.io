@@ -1,13 +1,24 @@
 ---
+Conference Proceedings
 ---
 
-@article{zhang2023twiddle,
+@article{zhang2025code,
+  abbr={CGO},
+  title={Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic on GPU},
+  author={Zhang, Naifeng and Franchetti, Franz},
+  journal={The International Symposium on Code Generation and Optimization},
+  year={2025},
+  note={To appear},
+  selected={true}
+}
+
+@article{zhang2023generating,
   abbr={HPEC},
   title={Generating High-Performance Number Theoretic Transform Implementations for Vector Architectures},
   author={Zhang, Naifeng and Ebel, Austin and Neda, Negar and Brinich, Patrick and Reynwar, Benedict and G. Schmidt, Andrew and Franusich, Mike and Johnson, Jeremy and Reagen, Brandon and Franchetti, Franz},
   journal={IEEE High Performance Extreme Computing Conference},
   year={2023},
-  selected={true}
+  selected={false}
 }
 
 @article{sun2023optimization,
@@ -19,12 +30,98 @@
   selected={false}
 }
 
+@article{soni2023rpu,
+  abbr={ISPASS},
+  title={RPU: The Ring Processing Unit},
+  author={Soni, Deepraj and Neda, Negar and Zhang, Naifeng and Reynwar, Benedict and Gamil, Homer and Heyman, Benjamin and Nabeel, Mohammed and Badawi, Ahmad Al and Polyakov, Yuriy and Canida, Kellie and others},
+  journal={IEEE International Symposium on Performance Analysis of Systems and Software},
+  year={2023},
+  pdf={ISPASS_RPU_2023.pdf}
+}
+
+@article{zhang2021genmat,
+  abbr={PEHC | SC},
+  title={GenMAT: A General-Purpose Machine Learning-Driven Auto-Tuner for Heterogeneous Platforms},
+  author={Zhang, Naifeng and Srivastava, Ajitesh and Kannan, Rajgopal and Prasanna, Viktor K},
+  journal={Workshop on Programming Environments for Heterogeneous Computing, in conjunction with the International Conference for High Performance Computing, Networking, Storage, and Analysis},
+  year={2021},
+  pdf={PEHC_GenMAT_2021.pdf},
+  code={https://github.com/Naifeng/Auto-Tuner},
+  selected={true},
+}
+
+@article{srivastava2020towards,
+  abbr={HiPC},
+  title={Towards High Performance, Portability, and Productivity: Lightweight Augmented Neural Networks for Performance Prediction},
+  author={Srivastava, Ajitesh and Zhang, Naifeng and Kannan, Rajgopal and Prasanna, Viktor K.},
+  journal={IEEE 27th International Conference on High Performance Computing, Data, and Analytics},
+  year={2020},
+  pdf={HiPC_NN+C_2020.pdf},
+  talk={https://youtu.be/Tuskba_gSXg},
+  code={https://github.com/Naifeng/Augmented-Neural-Network}
+}
+
+@article{imes2020compiler,
+  abbr={ESPM2 | SC},
+  title={Compiler Abstractions and Runtime for Extreme-scale SAR and CFD Workloads},
+  author={Imes, Connor and Colin, Alexei and Zhang, Naifeng and Srivastava, Ajitesh and Prasanna, Viktor and Walters, John Paul},
+  journal={Workshop on Extreme Scale Programming Models and Middleware, in conjunction with the International Conference for High Performance Computing, Networking, Storage, and Analysis},
+  year={2020},
+  pdf={ESMP2_CASPER_2020.pdf}
+}
+
+---
+Other Conference Papers, Technical Reports, Extended Abstracts, and Posters
+---
+
+@article{zhang2025towards,
+  abbr={TPSA | POPL},
+  title={Towards Semantics Lifting for Scientific Computing: A Case Study on FFT},
+  author={Zhang, Naifeng and Rao, Sanil and Franusich, Mike and Franchetti, Franz},
+  journal={Theory and Practice of Static Analysis Workshop, in conjunction with the ACM SIGPLAN Symposium on Principles of Programming Languages},
+  year={2025},
+  note={Extended abstract with presentation, To appear},
+  selected={true}
+}
+
+@article{fu2024accelerating,
+  abbr={PACT},
+  title={Accelerating High-Precision Number Theoretic Transforms using Intel AVX-512},
+  author={Fu, Sophia and Zhang, Naifeng and Franchetti, Franz},
+  journal={The International Conference on Parallel Architectures and Compilation Techniques},
+  year={2024},
+  note={Extended abstract with poster and presentation},
+  award={First Place, ACM Student Research Competition<br>Best Poster Runner-up at PRISM Annual Review, Systems \& Software track},
+  pdf={PACT_2024_AVX.pdf},
+  selected={true},
+}
+
+@article{eum2024towards,
+  abbr={HPEC},
+  title={Towards a RISC-V Instruction Set Extension for Multi-word Arithmetic},
+  author={Eum, Youngjin and Zhang, Naifeng and Tang, Larry and Franchetti, Franz},
+  journal={IEEE High Performance Extreme Computing Conference},
+  year={2024},
+  note={Extended abstract with poster},
+}
+
+@article{zhang2024faster,
+  abbr={arXiv},
+  title={Faster Game Solving via Hyperparameter Schedules},
+  author={Zhang, Naifeng and McAleer, Stephen and Sandholm, Tuomas},
+  journal={arXiv},
+  year={2024},
+  note={Preprint},
+}
+
 @article{brinich2023twiddle,
   abbr={HPEC},
   title={Twiddle Factor Generation for a Vectorized Number Theoretic Transform},
   author={Brinich, Patrick and Zhang, Naifeng and Ebel, Austin and Franchetti, Franz and Johnson, Jeremy},
   journal={IEEE High Performance Extreme Computing Conference},
+  award={Outstanding Short Paper Award},
   year={2023},
+  note={Extended abstract with poster},
 }
 
 @article{mankad2023evpfftx,
@@ -33,15 +130,16 @@
   author={Mankad, Het and Rovinelli, Andrea and Zecevic, Miroslav and McCorquodale, Peter and Franchetti, Franz and Zhang, Naifeng and Rao, Sanil and Lebensohn, R. L. and Capolungo, Laurent},
   journal={IEEE High Performance Extreme Computing Conference},
   year={2023},
-  selected={false}
+  note={Extended abstract with poster},
 }
 
 @article{cousins2023trebuchet,
-  abbr={GOMAC},
+  abbr={GOMACTech},
   title={TREBUCHET: Fully Homomorphic Encryption Accelerator for Deep Computation},
   author={Cousins, David Bruce and Polyakov, Yuriy and Badawi, Ahmad Al and French, Matthew and Schmidt, Andrew and Jacob, Ajey and Reynwar, Benedict and Canida, Kellie and Jaiswal, Akhilesh and Mathew, Clynn and others},
   journal={Government Microcircuit Applications and Critical Technology Conference},
   year={2023},
+  note={Preprint with presentation},
   pdf={GOMACTech_TREBUCHET_2023.pdf}
 }
 
@@ -49,19 +147,13 @@
   abbr={CGO},
   title={Generating Number Theoretic Transforms for Multi-Word Integer Data Types},
   author={Zhang, Naifeng and Franchetti, Franz},
-  journal={IEEE/ACM International Symposium on Code Generation and Optimization},
+  journal={The International Symposium on Code Generation and Optimization},
   year={2023},
+  note={Extended abstract with poster and presentation},
+  award={Second Place, ACM Student Research Competition},
   pdf={CGO_MPNTT_2023.pdf},
-  poster={CGO_MPNTT_Poster_2023.pdf}
-}
-
-@inproceedings{soni2023rpu,
-  abbr={ISPASS},
-  title={RPU: The Ring Processing Unit},
-  author={Soni, Deepraj and Neda, Negar and Zhang, Naifeng and Reynwar, Benedict and Gamil, Homer and Heyman, Benjamin and Nabeel, Mohammed and Badawi, Ahmad Al and Polyakov, Yuriy and Canida, Kellie and others},
-  booktitle={IEEE International Symposium on Performance Analysis of Systems and Software},
-  year={2023},
-  pdf={ISPASS_RPU_2023.pdf}
+  poster={CGO_MPNTT_Poster_2023.pdf},
+  selected={true},
 }
 
 @article{zhang2022towards,
@@ -70,54 +162,21 @@
   author={Zhang, Naifeng and Gamil, Homer and Brinich, Patrick and Reynwar, Benedict and Al Badawi, Ahmad and Neda, Negar and Soni, Deepraj and Canida, Kellie and Polyakov, Yuriy and Broderick, Patrick and Maniatakos, Michail and G. Schmidt, Andrew and Franusich, Mike and Johnson, Jeremy and Reagen, Brandon and Cousins, David Bruce and Franchetti, Franz},
   journal={IEEE High Performance Extreme Computing Conference},
   year={2022},
-  selected={true},
+  note={Extended abstract with presentation},
   pdf={HPEC_DPRIVE_2022.pdf}
 }
 
 @article{grosof2022towards,
-  abbr={PoS},
+  abbr={PoS | SAT},
   title={Towards the shortest DRAT proof of the Pigeonhole Principle},
   author={Grosof, Isaac and Zhang, Naifeng and Heule, Marijn JH},
-  journal={Pragmatics of SAT International Workshop},
+  journal={Pragmatics of SAT International Workshop, in conjunction with the International Conference on Theory and Applications of Satisfiability Testing},
   year={2022},
+  note={Preprint with presentation},
   pdf={PoS_PHP_2022.pdf}
 }
 
-@inproceedings{zhang2021genmat,
-  abbr={PEHC},
-  title={GenMAT: A General-Purpose Machine Learning-Driven Auto-Tuner for Heterogeneous Platforms},
-  author={Zhang, Naifeng and Srivastava, Ajitesh and Kannan, Rajgopal and Prasanna, Viktor K},
-  booktitle={IEEE/ACM Programming Environments for Heterogeneous Computing},
-  pages={1--9},
-  year={2021},
-  organization={IEEE},
-  selected={true},
-  pdf={PEHC_GenMAT_2021.pdf},
-  code={https://github.com/Naifeng/Auto-Tuner}
-}
 
-@inproceedings{srivastava2020towards,
-  abbr={HiPC},
-  title={Towards High Performance, Portability, and Productivity: Lightweight Augmented Neural Networks for Performance Prediction},
-  author={Srivastava, Ajitesh and Zhang, Naifeng and Kannan, Rajgopal and Prasanna, Viktor K.},
-  booktitle={IEEE 27th International Conference on High Performance Computing, Data, and Analytics},
-  pages={21--30},
-  year={2020},
-  organization={IEEE},
-  selected={true},
-  pdf={HiPC_NN+C_2020.pdf},
-  talk={https://youtu.be/Tuskba_gSXg},
-  code={https://github.com/Naifeng/Augmented-Neural-Network}
-}
 
-@inproceedings{imes2020compiler,
-  abbr={ESPM2},
-  title={Compiler Abstractions and Runtime for Extreme-scale SAR and CFD Workloads},
-  author={Imes, Connor and Colin, Alexei and Zhang, Naifeng and Srivastava, Ajitesh and Prasanna, Viktor and Walters, John Paul},
-  booktitle={IEEE/ACM 5th International Workshop on Extreme Scale Programming Models and Middleware},
-  pages={1--7},
-  year={2020},
-  organization={IEEE},
-  pdf={ESMP2_CASPER_2020.pdf}
-}
+
 

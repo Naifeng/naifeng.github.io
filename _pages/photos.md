@@ -13,11 +13,11 @@ nav_order: 10
 <div class="gallery">
   {% assign url1 = "/assets/img/sc_rmz.jpg" %}
   {% assign alt1 = "" %}
-  {% assign caption1 = "Atlanta, Fall 2024" %}
+  {% assign caption1 = "Atlanta, Fall 2024<br>with Sanil Rao (left), my Ph.D. colleague, and Het Mankad (middle), our former postdoc" %}
   
   {% assign url2 = "/assets/img/cmu_ffz.jpg" %}
   {% assign alt2 = "" %}
-  {% assign caption2 = "Pittsburgh, Winter 2024" %}
+  {% assign caption2 = "Pittsburgh, Winter 2024<br>with Sophia Fu (left), my undergraduate mentee, and Franz Franchetti (middle), my advisor" %}
 
   <!-- {% assign url3 = "/assets/img/cmu_ffz.jpg" %}
   {% assign alt3 = "A city skyline" %}
