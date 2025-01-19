@@ -27,4 +27,4 @@ My research interests lie in the areas of high-performance code generation, prog
 
 My undergraduate research is featured [here](https://sites.usc.edu/dslab/projects/system-performance-prediction/). 
 
-Currently, I am contributing to [SPIRAL](http://www.spiral.net/) and [NTTX](http://www.spiral.net/software/nttx.html). 
+Currently, I am contributing to [SPIRAL](http://www.spiral.net/), [NTTX](http://www.spiral.net/software/nttx.html), and [Semantics Lifting](https://www.spiral.net/software/semantics.html).
