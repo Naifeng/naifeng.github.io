@@ -13,15 +13,15 @@ nav_order: 10
 <div class="gallery">
   {% assign url1 = "/assets/img/sc_rmz.jpg" %}
   {% assign alt1 = "" %}
-  {% assign caption1 = "Atlanta, Fall 2024<br>with Sanil Rao (left), my Ph.D. colleague, and Het Mankad (middle), our former postdoc" %}
+  {% assign caption1 = "Atlanta, Fall 2024<br>with my Ph.D. colleague, Sanil Rao (left), and our former postdoc, Het Mankad (middle)" %}
   
   {% assign url2 = "/assets/img/cmu_ffz.jpg" %}
   {% assign alt2 = "" %}
-  {% assign caption2 = "Pittsburgh, Winter 2024<br>with Sophia Fu (left), my undergraduate mentee, and Franz Franchetti (middle), my advisor" %}
+  {% assign caption2 = "Pittsburgh, Winter 2024<br>with my undergraduate mentee, Sophia Fu (left), and my advisor, Franz Franchetti (middle)" %}
 
-  <!-- {% assign url3 = "/assets/img/cmu_ffz.jpg" %}
-  {% assign alt3 = "A city skyline" %}
-  {% assign caption3 = "City skyline at night" %} -->
+  {% assign url3 = "/assets/img/usc_seminar.jpg" %}
+  {% assign alt3 = "" %}
+  {% assign caption3 = "Los Angeles, Summer 2025<br>with my undergraduate advisor, Viktor K. Prasanna (center), and a full room of USC students" %}
 
   <div class="gallery-item">
     <img src="{{ url1 }}" alt="{{ alt1 }}" loading="lazy">
@@ -33,10 +33,11 @@ nav_order: 10
     <p>{{ caption2 }}</p>
   </div>
 
-  <!-- <div class="gallery-item">
+  <div class="gallery-item">
     <img src="{{ url3 }}" alt="{{ alt3 }}" loading="lazy">
     <p>{{ caption3 }}</p>
-  </div> -->
+  </div>
+
 </div>
 
 <style>
