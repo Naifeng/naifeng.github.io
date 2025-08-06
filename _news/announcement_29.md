@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2025-7-16
+date: 2025-5-27
 inline: true
-label: "paper"
+label: "service"
 ---
 
-Our paper on *Towards Closing the Performance Gap for Cryptographic Kernels Between CPUs and Specialized Hardware* was accepted at [MICRO 2025](https://microarch.org/micro58/).
+I served on the Program Committee for [the AI4Dev workshop](https://ornl.github.io/events/AI4Dev-ICPP-2025/), held in conjunction with [ICPP 2025](https://icpp2025.sdsc.edu/).
