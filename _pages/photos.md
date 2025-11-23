@@ -2,7 +2,7 @@
 title: photos
 layout: default
 permalink: /photos/
-nav: true
+nav: false
 nav_order: 10
 ---
 
