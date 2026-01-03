@@ -1,0 +1,4 @@
+- date: 2026-03-23
+  title: '<a href="https://spiral-software.github.io/asplos-26/">SPIRAL tutorial</a> at ASPLOS 2026'
+  description: "Co-organized a tutorial on SPIRAL: Pre-Silicon and Early-Prototype Performance Estimation Using Highly Optimized Code."
+  label: talk

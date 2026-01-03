@@ -45,6 +45,14 @@ layout: default
       <h2>
         <a href="{{ '/news/' | relative_url }}" style="color: inherit">news</a>
       </h2>
+
+      {% if site.data.upcoming_news and site.data.upcoming_news.size > 0 %}
+        <div class="upcoming-news-box">
+          <h3 class="upcoming-news-title">upcoming</h3>
+          {% include upcoming_news.liquid %}
+        </div>
+      {% endif %}
+
       {% include news.liquid limit=true %}
     {% endif %}
 
