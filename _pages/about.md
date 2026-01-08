@@ -23,7 +23,7 @@ I received a bachelor's degree in [Computer Science](https://www.cs.usc.edu/) wi
 
 My research interests lie in the areas of code generation, compilers, and programming languages. Currently, I am developing [SPIRAL](http://www.spiral.net/) for 
 
-⬇️ High-performance **code generation** targeting [CPUs](https://dl.acm.org/doi/10.1145/3725843.3756120), [GPUs](https://dl.acm.org/doi/10.1145/3696443.3708948), and [ASICs](assets/pdf/ISPASS_RPU_2023.pdf);
+⬇️ High-performance **code generation** targeting [CPUs](https://dl.acm.org/doi/10.1145/3725843.3756120), [GPUs](https://dl.acm.org/doi/10.1145/3696443.3708948), and [ASICs]({{ '/assets/pdf/ISPASS_RPU_2023.pdf' | relative_url }});
 
 ⬆️ **Semantics lifting** for performance portability and [safeguarding AI-generated code](https://arxiv.org/pdf/2501.09201).
 

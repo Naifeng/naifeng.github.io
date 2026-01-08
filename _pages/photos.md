@@ -24,17 +24,17 @@ nav_order: 10
   {% assign caption3 = "Los Angeles, Summer 2025<br>with my undergraduate advisor, Viktor K. Prasanna (center), and a full room of USC students" %}
 
   <div class="gallery-item">
-    <img src="{{ url1 }}" alt="{{ alt1 }}" loading="lazy">
+    <img src="{{ url1 | relative_url }}" alt="{{ alt1 }}" loading="lazy">
     <p>{{ caption1 }}</p>
   </div>
   
   <div class="gallery-item">
-    <img src="{{ url2 }}" alt="{{ alt2 }}" loading="lazy">
+    <img src="{{ url2 | relative_url }}" alt="{{ alt2 }}" loading="lazy">
     <p>{{ caption2 }}</p>
   </div>
 
   <div class="gallery-item">
-    <img src="{{ url3 }}" alt="{{ alt3 }}" loading="lazy">
+    <img src="{{ url3 | relative_url }}" alt="{{ alt3 }}" loading="lazy">
     <p>{{ caption3 }}</p>
   </div>
 
