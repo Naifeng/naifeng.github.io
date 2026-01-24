@@ -5,4 +5,4 @@ inline: true
 label: "paper"
 ---
 
-Our paper on LibraryX: A Framework for Cross-Library-Call Optimization was accepted at [IPDPS 2026](https://www.ipdps.org/). 
+Our paper on *LibraryX: A Framework for Cross-Library-Call Optimization* was accepted at [IPDPS 2026](https://www.ipdps.org/).
