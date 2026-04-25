@@ -1,4 +1,8 @@
-- date: 2026-03-23
-  title: '<a href="https://spiral-software.github.io/asplos-26/">SPIRAL Tutorial</a> at ASPLOS 2026'
-  description: 'Co-organizing a tutorial on SPIRAL: A Code Generation Approach to Hardware-Software Co-Design.'
-  label: Pittsburgh
+- date: 2026-06-17
+  title: 'Short paper at <a href="https://pldi26.sigplan.org/">PLDI 2026</a>'
+  description: 'Presenting our work on Semantics Lifting for Scientific Kernels at ACM SRC.'
+  label: Boulder
+# - date: 2026-07-06
+#   title: 'Minisymposium at <a href="https://www.siam.org/conferences-events/siam-conferences/an26/">SIAM AN26</a>'
+#   description: 'Co-organizing a minisymposium on Performance Portability and Scalability for Scientific Applications.'
+#   label: Cleveland
