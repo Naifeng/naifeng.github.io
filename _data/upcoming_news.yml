@@ -1,8 +1,12 @@
-- date: 2026-06-17
-  title: 'Short paper at <a href="https://pldi26.sigplan.org/">PLDI 2026</a>'
-  description: 'Presenting our work on Semantics Lifting for Scientific Kernels at ACM SRC.'
-  label: Boulder
-# - date: 2026-07-06
-#   title: 'Minisymposium at <a href="https://www.siam.org/conferences-events/siam-conferences/an26/">SIAM AN26</a>'
-#   description: 'Co-organizing a minisymposium on Performance Portability and Scalability for Scientific Applications.'
-#   label: Cleveland
+# - date: 2026-06-17
+#   title: 'Short paper at <a href="https://pldi26.sigplan.org/">PLDI 2026</a>'
+#   description: 'Presenting our work on Semantics Lifting for Scientific Kernels at ACM SRC.'
+#   label: Boulder
+- date: 2026-06-27
+  title: 'Talk at <a href="https://cryptolets.org/blog/2026/cryptolets-tutorial-isca2026/">the Cryptolets Tutorial (ISCA 2026)</a>'
+  description: 'Presenting our work "Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic."'
+  label: Raleigh, NC
+- date: 2026-07-06
+  title: 'Minisymposium at <a href="https://www.siam.org/conferences-events/siam-conferences/an26/">SIAM AN26</a>'
+  description: 'Co-organizing the minisymposium "Performance Portability and Scalability for Scientific Applications."'
+  label: Cleveland, OH
