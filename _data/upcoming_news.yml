@@ -6,7 +6,11 @@
 #   title: 'Talk at <a href="https://cryptolets.org/blog/2026/cryptolets-tutorial-isca2026/">the Cryptolets Tutorial (ISCA 2026)</a>'
 #   description: 'Presenting our work "Code Generation for Cryptographic Kernels using Multi-word Modular Arithmetic."'
 #   label: Raleigh, NC
-- date: 2026-07-06
-  title: 'Minisymposium at <a href="https://www.siam.org/conferences-events/siam-conferences/an26/">SIAM AN26</a>'
-  description: 'Co-organizing the minisymposium "Performance Portability and Scalability for Scientific Applications."'
-  label: Cleveland, OH
+# - date: 2026-07-06
+#   title: 'Minisymposium at <a href="https://www.siam.org/conferences-events/siam-conferences/an26/">SIAM AN26</a>'
+#   description: 'Co-organizing the minisymposium "Performance Portability and Scalability for Scientific Applications."'
+#   label: Cleveland, OH
+- date: 2026-09-13
+  title: 'Visiting <a href="https://www.ornl.gov/">ORNL</a>'
+  description: 'Collaborating with the Programming Systems group at Oak Ridge National Laboratory.'
+  label: Oak Ridge, TN
