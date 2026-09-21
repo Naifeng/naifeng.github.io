@@ -33,4 +33,6 @@ My research focuses on mathematics-based code generation and reasoning for high-
 
 - **Semantics lifting** for code modernization and [verification of AI-generated code](https://arxiv.org/pdf/2501.09201).
 
-I have interned twice at [NVIDIA](https://www.nvidia.com/en-us/), working on high-performance code generation targeting CUDA's SIMT and Tile programming models.
+<!-- I have interned twice at [NVIDIA](https://www.nvidia.com/en-us/), working on high-performance code generation targeting CUDA's SIMT and Tile programming models. -->
+
+I have interned twice at [NVIDIA](https://www.nvidia.com/en-us/), working on generating high-performance CUDA SIMT and Tile code.
