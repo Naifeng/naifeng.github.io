@@ -14,3 +14,15 @@
 #   title: 'Visiting <a href="https://www.ornl.gov/">ORNL</a>'
 #   description: 'Collaborating with the Programming Systems group at Oak Ridge National Laboratory.'
 #   label: Oak Ridge, TN
+- date: 2026-10-22
+  title: 'Talk at <a href="https://compilerseminar.web.illinois.edu/">UIUC Compiler Seminar</a>'
+  description: 'Presenting our ongoing work on semantics lifting.'
+  label: Urbana, IL
+- date: 2026-10-27
+  title: 'Talk at <a href="https://www.lbl.gov/">LBNL</a>'
+  description: 'Presenting our ongoing work on semantics lifting.'
+  label: Berkeley, CA
+- date: 2026-10-31
+  title: 'Talk at <a href="https://baahl-nyu.github.io/zkarch2026/">ZKARCH</a>, co-located with MICRO 2026'
+  description: 'Presenting our MICRO 2025 work on HW-SW co-design.'
+  label: Virtual

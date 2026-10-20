@@ -31,7 +31,7 @@ My research focuses on mathematics-based code generation and reasoning for high-
 
 - High-performance **code generation** targeting [CPUs](https://dl.acm.org/doi/10.1145/3725843.3756120), [GPUs](https://dl.acm.org/doi/10.1145/3696443.3708948), and [specialized hardware]({{ '/assets/pdf/ISPASS_RPU_2023.pdf' | relative_url }});
 
-- **Semantics lifting** for code modernization and [verification of AI-generated code](https://arxiv.org/pdf/2501.09201).
+- **Semantics lifting** for code modernization and [verifying AI-generated code](https://arxiv.org/pdf/2501.09201).
 
 <!-- I have interned twice at [NVIDIA](https://www.nvidia.com/en-us/), working on high-performance code generation targeting CUDA's SIMT and Tile programming models. -->
 
